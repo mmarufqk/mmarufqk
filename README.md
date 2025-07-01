@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm M. Ma'ruf Qomaruddin Kafi</h1>
-<h3>
-  📚 Undergraduate Mathematics Student | Passionate About Machine Learning, Data Science, and Competitive Programming.
-</h3>
-<h3>
+<p>
+  📚 Undergraduate Mathematics Student | Passionate About Competitive Programming and Machine Learning/Data Science.
+</p>
+<p>
   I'm currently studying Pure Mathematics at Institut Teknologi Sepuluh Nopember (ITS), where I explore both the theoretical and practical sides of mathematics. I am also highly interested in Computer Science, specifically Competitive Programming and Machine Learning/Data Science.
-</h3>
+</p>
 <ul>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/mmarufqk">https://github.com/mmarufqk</a></li>
   <li>💬 Ask me about <b>Competitive Programming (C/C++, Java, Python) and Machine Learning/Data Science (Python, SQL, Tableau)</b></li>

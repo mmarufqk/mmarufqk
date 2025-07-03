@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M. Ma'ruf Qomaruddin Kafi</h1>
-<p>
+<h3>
   <b>📚 Undergraduate Mathematics Student | Passionate About Competitive Programming and Machine Learning/Data Science.</b>
-</p>
+</h3>
 <p>
   I'm currently studying Pure Mathematics at Institut Teknologi Sepuluh Nopember (ITS), where I explore both the theoretical and practical sides of mathematics. I am also highly interested in Computer Science, specifically Competitive Programming and Machine Learning/Data Science.
 </p>

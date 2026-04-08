@@ -8,7 +8,7 @@
 </p>
 <ul>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/mmarufqk">https://github.com/mmarufqk</a></li>
-  <li>💬 Ask me about <b>Competitive Programming (C/C++, Java, Python) and Machine Learning/Data Science (Python, SQL, Tableau)</b></li>
+  <li>💬 Ask me about <b>Competitive Programming (C/C++, Java, Python) and Machine Learning/Data Science (CV, NLP, and GenAI)</b></li>
   <li>📫 How to reach me <b>mmarufqomaruddinkafi@gmail.com</b></li>
   <li>📄 Know about my experiences <a href="https://www.linkedin.com/in/mmarufqomaruddinkafi/">https://www.linkedin.com/in/mmarufqomaruddinkafi/</a></li>
 </ul>
